@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">NasaImages</string>
+  <string name="api_key">API_KEY</string>
+
+  <string name="title_activity_fullscreen">FullscreenActivity</string>
+  <string name="change_layout_manager">Change Layout</string>
+</resources>
